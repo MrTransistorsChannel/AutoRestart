@@ -1,5 +1,5 @@
 name: AutoRestart
-version: 1.0
+version: 1.1
 author: MrTransistor
 main: ru.tulavcube.autoRestart.autoRestart
 commands:
@@ -9,4 +9,4 @@ commands:
   autorestart:
     description: Configure AutoRestart plugin
     usage: "Usage: /autorestart <timeout|threshold> [value]"
-api-version: 1.16
+api-version: 1.17
