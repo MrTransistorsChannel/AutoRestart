@@ -1,0 +1,12 @@
+name: AutoRestart
+version: 1.0
+author: MrTransistor
+main: ru.tulavcube.autoRestart.autoRestart
+commands:
+  mem:
+    description: Get memory usage
+    usage: "Usage: /mem"
+  autorestart:
+    description: Configure AutoRestart plugin
+    usage: "Usage: /autorestart <timeout|threshold> [value]"
+api-version: 1.16
