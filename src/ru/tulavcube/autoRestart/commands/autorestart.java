@@ -42,6 +42,7 @@ public class autorestart implements TabExecutor {
                     plugin.updateSettings();
                     sender.sendMessage(ChatColor.GREEN+ "New timeout is " + args[1]);
                 }
+                //testtest
             }
             else return false;
         }
